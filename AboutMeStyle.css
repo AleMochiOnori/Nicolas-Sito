@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+
+
+.background {
+    background: rgb(119,34,47);
+    background: linear-gradient(180deg, rgba(119,34,47,1) 24%, rgba(31,35,47,1) 63%);
+    width: 100%;
+    margin: 0;
+    max-width: 100%;
+}
+
+.container {
+    max-width: 1920px;
+
+}
