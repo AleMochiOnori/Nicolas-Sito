@@ -1,7 +1,9 @@
 *{
     font-family: 'Barlow', sans-serif;
     margin: 0;
+
 }
+
 body::-webkit-scrollbar {
     width: 12px;               /* width of the entire scrollbar */
   }
