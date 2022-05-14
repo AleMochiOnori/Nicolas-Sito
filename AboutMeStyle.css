@@ -15,3 +15,8 @@
     max-width: 1920px;
 
 }
+@media (max-width:1129) {
+    html,body{
+       width: 100%;
+    }
+}
